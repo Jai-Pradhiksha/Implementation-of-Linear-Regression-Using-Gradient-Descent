@@ -105,7 +105,7 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/100289733/8a0d4539-031e-40b5-8dc6-1b67079bbd3b)
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/100289733/23c6fb85-8e67-44f4-bf35-1d1f23914777)
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/100289733/f0dc6ef1-0afe-44ff-9eb8-a45e9d4137a9)
-![image](https://github.com/Jai-Pradhiksha/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/100289733/fd6d6a66-5f89-47a3-b260-61f170add98e)
+![image](https://github.com/Jai-Pradhiksha/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/100289733/8d433b7c-6b3a-4be5-bca8-d52bd854b7a7)
 ![image](https://github.com/Jai-Pradhiksha/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/100289733/5cfb1640-237e-4cf7-88fa-59ccb168b02d)
 
 
